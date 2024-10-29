@@ -11,9 +11,9 @@ The data used here is from the [City of Toronto Open Data Portal](https://open.t
 Step 1- Go to [Traffic Volumes at Intersections for All Modes](https://open.toronto.ca/dataset/traffic-volumes-at-intersections-for-all-modes/) and click on Download Data.
 
 
-Step 2- Download:
+Step 2- Download these two files:
    - **Locations** (`locations.csv`)
-   - **Raw Data** (`raw-data-2020-2029.csv` files for traffic counts)
+   - **Raw Data** (`raw-data-2020-2029.csv`)
 
 ## Running the Analysis 
 
