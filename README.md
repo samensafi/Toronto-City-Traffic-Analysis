@@ -4,7 +4,7 @@ This project analyzes the traffic volume data in Toronto in order to identify pa
 
 ## Data
 
-The data used here is from the [City of Toronto Open Data Portal](https://open.toronto.ca/dataset/traffic-volumes-at-intersections-for-all-modes/). It includes traffic counts for different types of vehicles and pedestrians at various intersections.
+The data used here is from the [City of Toronto Open Data Portal](https://open.toronto.ca/). It includes traffic counts for different types of vehicles and pedestrians at various intersections.
 
 ### How to Get the Data
 
