@@ -4,8 +4,8 @@ library(readr)
 library(sf)
 library(tidyr)
 
-locations <- read_csv("/Users/samensafi/Desktop/University/R Project/TorontoTrafficAnalysis/locations.csv")
-traffic_data <- read_csv("/Users/samensafi/Desktop/University/R Project/TorontoTrafficAnalysis/raw-data-2020-2029.csv")
+locations <- read_csv("locations.csv")
+traffic_data <- read_csv("raw-data-2020-2029.csv")
 
 glimpse(locations)
 glimpse(traffic_data)
