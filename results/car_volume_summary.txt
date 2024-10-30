@@ -1,0 +1,4 @@
+# A tibble: 1 × 4
+   sb_cars  nb_cars  wb_cars  eb_cars
+     <dbl>    <dbl>    <dbl>    <dbl>
+1 15560978 15021955 16599439 16383146

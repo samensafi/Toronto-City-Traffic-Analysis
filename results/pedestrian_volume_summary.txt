@@ -1,0 +1,4 @@
+# A tibble: 1 × 4
+  nx_peds sx_peds ex_peds wx_peds
+    <dbl>   <dbl>   <dbl>   <dbl>
+1 3089897 3061695 2997509 2787277
