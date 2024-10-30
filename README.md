@@ -21,5 +21,5 @@ The main analysis code is in `analysis.R` and it covers loading, cleaning, summa
 
 ## Results
 
-The **`results`** folder contains my summarized insights and conclusions.
+The **`results`** folder contains my summarized insights and conclusions for this project.
 
